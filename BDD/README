@@ -1,0 +1,9 @@
+BDD.py
+
+Simple implementation of Binary Decision Diagrams (BDD) in Python with capability to draw graphs.
+All functions can be created using this implementation, but no variable reordering is performed.
+
+200 lines BDD library
+50 lines tests
+
+Uses PyGraphviz.

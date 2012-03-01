@@ -1,0 +1,6 @@
+Boolean.py
+
+Simple library to work with Boolean functions. The main goal was to create a tool to convert Boolean functions into their Sum-of-Products and Product-of-Sums form (CNF and DNF). A basic satisfiability solver was included for Boolean functions in their Product-of-Sums form.
+
+520 lines Boolean logic library
+130 lines test

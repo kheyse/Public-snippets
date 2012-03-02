@@ -6,4 +6,6 @@ All functions can be created using this implementation, but no variable reorderi
 200 lines BDD library
 50 lines tests
 
+language: Python
+
 Uses PyGraphviz.

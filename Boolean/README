@@ -4,3 +4,5 @@ Simple library to work with Boolean functions. The main goal was to create a too
 
 520 lines Boolean logic library
 130 lines test
+
+language: Python

@@ -1,0 +1,18 @@
+table2csv.py
+
+Convert a human readable table into a csv file.
+
+e.g.
+Initials    Age     Score
+K.A.        12      20
+O.P.        16      45
+D.H.        30      18
+
+becomes
+
+"Initials","Age","Score"
+"K.A.","12","20"
+"O.P.","16","45"
+"D.H.","30","18"
+
+The width of the columns is determined by looking for vertical lines containing only whitespace.

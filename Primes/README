@@ -1,0 +1,6 @@
+primegrid.py
+
+A simple but effective prime number calculator and tester.
+Based on the sieve of Eratosthenes.
+
+language: Python
